@@ -1,1 +1,1 @@
-# conceptual program for sentiment analysis
+# conceptual code for sentiment analysis
