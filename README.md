@@ -1,1 +1,1 @@
-# conceptual-sentiment-analysis
+# conceptual program for sentiment analysis
